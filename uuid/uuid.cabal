@@ -1,6 +1,6 @@
 cabal-version:      1.12
 name:               uuid
-version:            1.3.16
+version:            1.3.17
 x-revision:         1
 copyright:          (c) 2008-2014 Antoine Latter
 author:             Antoine Latter
